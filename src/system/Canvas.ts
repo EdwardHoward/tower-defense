@@ -6,7 +6,7 @@ export default class Canvas {
 
     private _renderQueue = [];
 
-    constructor() {
+    private constructor() {
         const WIDTH = 1000;
         const HEIGHT = 600;
 
